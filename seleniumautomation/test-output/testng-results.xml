@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T16:13:16 IST" name="Default suite" finished-at="2024-07-11T16:13:21 IST" duration-ms="5078">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T16:13:16 IST" name="Default test" finished-at="2024-07-11T16:13:21 IST" duration-ms="5078">
+      <class name="introduction.Selen4newfea">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:introduction.Selen4newfea@242b836]" started-at="2024-07-11T16:13:16 IST" name="setUp" finished-at="2024-07-11T16:13:21 IST" duration-ms="4829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="rellocator()[pri:0, instance:introduction.Selen4newfea@242b836]" started-at="2024-07-11T16:13:21 IST" name="rellocator" description="Test book of left of book6 and belowof book1" finished-at="2024-07-11T16:13:21 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rellocator -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:introduction.Selen4newfea@242b836]" started-at="2024-07-11T16:13:21 IST" name="teardown" finished-at="2024-07-11T16:13:21 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- introduction.Selen4newfea -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
